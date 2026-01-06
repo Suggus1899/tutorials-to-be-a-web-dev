@@ -1,0 +1,31 @@
+# Semana 28: Proyecto Full Stack - Parte II
+
+## Objetivos de la Semana
+
+Esta semana completarás tu proyecto full stack:
+
+### 1. Frontend con React
+- Configurar el proyecto React
+- Componentes principales
+- Integración con la API
+
+### 2. Estado y navegación
+- Manejo de estado global
+- React Router
+- Formularios y validación
+
+### 3. Deployment y finalización
+- Deployment del backend (Render, Railway)
+- Deployment del frontend (Vercel, Netlify)
+- Testing E2E y ajustes finales
+
+## Estructura de la Semana
+
+- **Día 1-2**: Desarrollo del frontend con React
+- **Día 3-4**: Integración con backend y estado global
+- **Día 5-6**: Testing E2E y deployment
+- **Día 7**: Ajustes finales, presentación y práctica integradora
+
+## ¡Felicitaciones!
+
+Has completado el roadmap de 28 semanas. Ahora tienes las habilidades fundamentales para ser un desarrollador web full stack.
