@@ -2,7 +2,7 @@
 
 ## Objetivos de la Semana
 
-Esta semana profundizarás en Git y colaboración:
+Esta semana aprenderás Git avanzado y colaboración:
 
 ### 1. Git avanzado
 - Branching strategies (Git Flow)

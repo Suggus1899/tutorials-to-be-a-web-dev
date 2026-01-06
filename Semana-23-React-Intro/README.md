@@ -2,7 +2,7 @@
 
 ## Objetivos de la Semana
 
-Esta semana comenzarás con React, la biblioteca de JavaScript más popular:
+Esta semana aprenderás React, la biblioteca de JavaScript más popular:
 
 ### 1. Fundamentos de React
 - Qué es React

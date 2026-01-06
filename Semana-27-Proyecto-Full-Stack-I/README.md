@@ -21,6 +21,7 @@ Esta semana comenzarás a construir un proyecto completo integrando todo lo apre
 
 ## Estructura de la Semana
 
-- **Día 1-2**: Planificación y diseño
-- **Día 3-5**: Desarrollo del backend
-- **Día 6-7**: Testing y documentación
+- **Día 1-2**: Planificación y diseño del proyecto
+- **Día 3-4**: Desarrollo del backend con Express
+- **Día 5-6**: Implementación de autenticación y base de datos
+- **Día 7**: Testing, documentación y práctica integradora

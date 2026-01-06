@@ -21,9 +21,10 @@ Esta semana completarás tu proyecto full stack:
 
 ## Estructura de la Semana
 
-- **Día 1-3**: Desarrollo del frontend
-- **Día 4-5**: Integración y testing
-- **Día 6-7**: Deployment y presentación final
+- **Día 1-2**: Desarrollo del frontend con React
+- **Día 3-4**: Integración con backend y estado global
+- **Día 5-6**: Testing E2E y deployment
+- **Día 7**: Ajustes finales, presentación y práctica integradora
 
 ## ¡Felicitaciones!
 
